@@ -7,3 +7,5 @@ The dataset contains locations of all trees (roughly 2 million) in the district.
 The vetting process was fairly easy. The data was compiled through two main methods: first, using known trees/tree locations from the trees managed by the Urban Forestry Division, and second, estimated trees using LiDar data. Obviously, it's easier to trust the known tree data, but LiDar data is typically extremely precise (and there's no other way to collect data of this scale that I know of, so we don't really have a choice). The data is also published by Open Data DC, a source that I've historically trusted. 
 
 The final step I took to vet the data was to look around in it and see if I noticed anything that seemed obviously wrong. I didn't, and when I zoomed in on my street and looked at the tree locations and attributes, they were accurate compared to my own knowledge of my street (stepping outside and looking at trees).
+
+https://opendata.dc.gov/datasets/08bda06465a74cd59a6d4231d882588d_11/explore?location=38.943081%2C-77.073588%2C19.29 
