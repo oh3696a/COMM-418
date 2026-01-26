@@ -4,4 +4,6 @@ Tree cover is a major aspect of what makes a place livable --- they create shade
 
 The dataset contains locations of all trees (roughly 2 million) in the district. Each tree is labeled with a unique tree ID, as well as several descriptive variables (height, scientific name, what ward/ANC it's in, etc). With this level of depth, my original question can certainly be answered, and in more depth than previously thought. We can definitely see which wards or neighborhoods have the least tree cover, but we can also identify what types of trees are more prevalent in different areas, as well as which areas have taller trees. 
 
-I took a few different steps to vet the data. The first was to see how the data was compiled, and 
+The vetting process was fairly easy. The data was compiled through two main methods: first, using known trees/tree locations from the trees managed by the Urban Forestry Division, and second, estimated trees using LiDar data. Obviously, it's easier to trust the known tree data, but LiDar data is typically extremely precise (and there's no other way to collect data of this scale that I know of, so we don't really have a choice). The data is also published by Open Data DC, a source that I've historically trusted. 
+
+The final step I took to vet the data was to look around in it and see if I noticed anything that seemed obviously wrong. I didn't, and when I zoomed in on my street and looked at the tree locations and attributes, they were accurate compared to my own knowledge of my street (stepping outside and looking at trees).
