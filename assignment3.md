@@ -29,6 +29,8 @@ On the social side, trees have been shown to make people happier and lead to a h
 
 Spreadsheet: https://docs.google.com/spreadsheets/d/1rF24uLxk16QrJaI65RQRXF4oJNZErDS_4ruDz-dM0k8/edit?usp=sharing 
 
+The charts are in the spreadsheet; I couldn't figure out how to put them in here.
+
 
 Data note: Professor Francis helped me with the data cleaning process. After looking at the DC Trees data, which was too massive to download onto my computer, I determined that there were only a few variables I cared about, so he cut the rest of the data out and gave me a spreadsheet featuring only the tree IDs, heights, wards and ANCs (I only heavily used the tree IDs and wards).
 
