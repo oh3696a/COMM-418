@@ -1,4 +1,4 @@
-[Ranking FBS Mascots by Weight](https://www.sbnation.com/college-football/2016/8/26/12609252/ncaa-football-mascots)
+# [Ranking FBS Mascots by Weight](https://www.sbnation.com/college-football/2016/8/26/12609252/ncaa-football-mascots) #
 
 Is this hard-hitting journalism? No. But it is one of my all-time favorite data stories. It ranks all 129 NCAA FBS (Football Bowl Subdivision) mascots by their weight, which is an interesting way to visualize mascots that no one has really thought of before. I appreciate the attention to detail and research that it took to compile the list; it was assuredly a self-collected story, and I think the creators lean into the idea that it's a very low-budget, manual project.
 
