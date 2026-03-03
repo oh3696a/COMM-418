@@ -17,3 +17,5 @@ There is clearly an inflection point around 2020 in each graph, and this aligns 
 [The graphs can be seen on this Google Sheets link.](https://docs.google.com/spreadsheets/d/1I1-8J0INgTWx4a0FsLn0vlHZAkkJWz_8Oks8ZXw2Tu4/edit?usp=sharing)
 
 *Another note about data: This was collected from the United States Track and Field and Cross Country Coaches Assocation website. The USTFCCCA is a widely respected organization and their data is used by all major track and field news outlets.*
+
+[Data from USTFCCCA](https://web4.ustfccca.org/iz/records-lists/)
